@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "14": "^3.1.6",
+    "18": "^0.0.0",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/joy": "^5.0.0-beta.32",
+    "classnames": "^2.5.1",
+    "final-form": "^4.20.10",
+    "react-final-form": "^6.5.9"
+  }
+}
